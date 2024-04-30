@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "21944d2e-d8ac-435c-92ea-b7aa53bbdedc",
+		"name": "Prueba Técnica Kuantaz",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25940083",
+		"_collection_link": "https://www.postman.com/speeding-moon-51484/workspace/prueba-tecnica-kuantaz/collection/25940083-21944d2e-d8ac-435c-92ea-b7aa53bbdedc?action=share&source=collection_link&creator=25940083"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:8000/api/get_data",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/api/get_data",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"get_data"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
